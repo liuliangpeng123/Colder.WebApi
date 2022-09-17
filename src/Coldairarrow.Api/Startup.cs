@@ -13,6 +13,7 @@ namespace Coldairarrow.Api
 {
     public class Startup
     {
+        //开始编程
         public Startup(IConfiguration configuration)
         {
             _configuration = configuration;
